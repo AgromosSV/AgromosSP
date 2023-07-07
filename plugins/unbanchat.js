@@ -1,3 +1,4 @@
+
 let handler = async (m, { isOwner, text, isAdmin }) => {
 let who
 if (m.isGroup) {
