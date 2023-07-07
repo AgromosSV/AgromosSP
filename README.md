@@ -7,8 +7,8 @@
 
 ### `—◉ Grupos Del Bot`
 
-<a href="LINK" target="blank"><img src="https://img.shields.io/badge/Grupo 1)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="LInk" target="blank"><img src="https://img.shields.io/badge/Grupo 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="Puedes darle una estrella a mi repositorio" target="blank"><img src="https://img.shields.io/badge/Grupo 1)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="hola" target="blank"><img src="https://img.shields.io/badge/Grupo 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > Estamos intentando recuperar los grupos originales
 
