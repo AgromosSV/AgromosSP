@@ -1,3 +1,4 @@
+
 const { sticker } = require('../lib/sticker.js');
 const { addExif } = require('../lib/sticker.js');
 const uploadFile = require('../lib/uploadFile.js');
