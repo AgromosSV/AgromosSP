@@ -1,3 +1,4 @@
+
 const { googleImage } = require('@bochilteam/scraper')
 let handler  = async (m, { conn, args, text }) => {
 if (!text) return m.reply('*[❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝚃𝙴𝚇𝚃𝙾 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰 𝙱𝚄𝚂𝙲𝙰𝚁*')
